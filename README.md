@@ -1,5 +1,5 @@
 <h1 align="center">Hello , I'm Musaddiq A struggling developer here! 🤖</h1>
-<h3 align="center">A struggling developer here!I've always been fascinated by how computers work, and that interest slowly turned into a real love for technology. It’s what pushed me to study computer science in school, then during my undergrad, and now at DePaul University where I’m doing my master’s. I’m still learning and exploring different areas like AI, web apps and I enjoy building small projects that help me understand things better. I'm not an expert (yet!), but I try to be a better version of myself than I was yesterday.</h3>
+<h3 align="center">A struggling developer here!I've always been fascinated by how computers work, and that interest slowly turned into a real love for technology. It’s what pushed me to study computer science in school, then during my undergrad, and now at DePaul University where I’m doing my master’s. I have worked on projects involving DevOps pipeline, containerization, machine learning, AI applications, MLOps, FullStack and I enjoy building  projects that help me understand things better. I'm not an expert (yet!), but I try to be a better version of myself than I was yesterday.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
